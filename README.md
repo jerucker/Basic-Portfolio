@@ -1,2 +1,2 @@
 # Basic-Portfolio
-Building a porfolio
+This is a basic portfolio built with  basic css
